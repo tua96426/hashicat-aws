@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. In the jungle the mighty jungle the lion sleeps tonight! 
+  Welcome to ${PREFIX}'s app. In the jungle the mighty jungle the lion sleeps tonight! He will continue to sleep until the song wakes him up!
   <!-- END -->
 
   </div>
